@@ -463,13 +463,13 @@ img {
   background-position: center;
 }
 .hero__swiper-img1 {
-  background-image: url(../images/hero1.png);
+  background-image: url(images/hero1.png);
 }
 .hero__swiper-img2 {
-  background-image: url(../images/hero2.png);
+  background-image: url(images/hero2.png);
 }
 .hero__swiper-img3 {
-  background-image: url(../images/hero3.png);
+  background-image: url(images/hero3.png);
 }
 
 .swiper-pagination {
@@ -537,12 +537,12 @@ img {
   background-size: cover;
 }
 .special__block-sofabw1 {
-  background-image: url(../images/special-sofaz44-bw.png);
+  background-image: url(images/special-sofaz44-bw.png);
   height: 107px;
   width: 230px;
 }
 .special__block-sofabw2 {
-  background-image: url(../images/special-sofaz85-bw.png);
+  background-image: url(images/special-sofaz85-bw.png);
   height: 124px;
   width: 234px;
 }
@@ -755,7 +755,7 @@ img {
 .banner {
   margin-bottom: 70px;
   position: relative;
-  background-image: url(../images/oxford.png);
+  background-image: url(images/oxford.png);
   background-size: cover;
   width: 100%;
   background-position: center;
@@ -849,19 +849,19 @@ img {
   margin-right: 20px;
 }
 .top__img-1 {
-  background-image: url(../images/top-sofa1.png);
+  background-image: url(images/top-sofa1.png);
 }
 .top__img-2 {
-  background-image: url(../images/top-amchair1.png);
+  background-image: url(images/top-amchair1.png);
 }
 .top__img-3 {
-  background-image: url(../images/top-bed1.png);
+  background-image: url(images/top-bed1.png);
 }
 .top__img-4 {
-  background-image: url(../images/top-dresser1.png);
+  background-image: url(images/top-dresser1.png);
 }
 .top__img-5 {
-  background-image: url(../images/top-chair1.png);
+  background-image: url(images/top-chair1.png);
 }
 .top__btn {
   outline: transparent;
@@ -967,19 +967,19 @@ img {
   border-radius: 10px 10px 0 0;
 }
 .useful__img-1 {
-  background-image: url(../images/useful1.png);
+  background-image: url(images/useful1.png);
 }
 .useful__img-2 {
-  background-image: url(../images/useful2.png);
+  background-image: url(images/useful2.png);
 }
 .useful__img-3 {
-  background-image: url(../images/useful3.png);
+  background-image: url(images/useful3.png);
 }
 .useful__img-4 {
-  background-image: url(../images/useful4.png);
+  background-image: url(images/useful4.png);
 }
 .useful__img-5 {
-  background-image: url(../images/useful5.png);
+  background-image: url(images/useful5.png);
 }
 .useful__info {
   padding: 30px;
@@ -1059,7 +1059,7 @@ img {
   padding: 19px 34px;
 }
 .contacts__grid-right {
-  background-image: url(../images/contacts-sofa.png);
+  background-image: url(images/contacts-sofa.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -1102,7 +1102,7 @@ img {
 }
 
 .contacts__checkbox:checked + .contacts__agree {
-  background-image: url(../images/cheked=on.svg);
+  background-image: url(images/cheked=on.svg);
   background-position: center;
   background-repeat: no-repeat;
   width: 14px;
@@ -1311,7 +1311,7 @@ img {
   align-items: center;
 }
 .partnership__period-img {
-  background-image: url(../images/pencil.png);
+  background-image: url(images/pencil.png);
   background-repeat: no-repeat;
   height: 116px;
   width: 77px;
@@ -1413,7 +1413,7 @@ img {
   margin-bottom: 7px;
 }
 .card__desc-img {
-  background-image: url(../images/card-descr.png);
+  background-image: url(images/card-descr.png);
   background-size: contain;
   background-repeat: no-repeat;
   height: 100%;
@@ -1444,7 +1444,7 @@ img {
   width: 100%;
   left: 0;
   top: 17px;
-  background-image: url(../images/dots.svg);
+  background-image: url(images/dots.svg);
   background-repeat: repeat-x;
   height: 1px;
 }
@@ -1636,7 +1636,7 @@ img {
   margin: 0;
 }
 .catalog__banner-img {
-  background-image: url(../images/oxford-catalog.png);
+  background-image: url(images/oxford-catalog.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1688,7 +1688,7 @@ img {
 }
 
 .catalog__checkbox-input:checked + .catalog__checkbox-option {
-  background-image: url(../images/chekbox-catalog.png);
+  background-image: url(images/chekbox-catalog.png);
   background-position: center;
   background-repeat: no-repeat;
   width: 20px;
@@ -2016,19 +2016,19 @@ input::-webkit-inner-spin-button {
     height: 202px;
   }
   .useful__img-1 {
-    background-image: url(../images/useful1-1024.png);
+    background-image: url(images/useful1-1024.png);
   }
   .useful__img-2 {
-    background-image: url(../images/useful2-1024.png);
+    background-image: url(images/useful2-1024.png);
   }
   .useful__img-3 {
-    background-image: url(../images/useful3-1024.png);
+    background-image: url(images/useful3-1024.png);
   }
   .useful__img-4 {
-    background-image: url(../images/useful4-1024.png);
+    background-image: url(images/useful4-1024.png);
   }
   .useful__img-5 {
-    background-image: url(../images/useful5-1024.png);
+    background-image: url(images/useful5-1024.png);
   }
   .useful__text {
     font-size: 16px;
@@ -2109,32 +2109,32 @@ input::-webkit-inner-spin-button {
     margin-bottom: 70px;
   }
   .hero__swiper-img1 {
-    background-image: url(../images/hero1-1400.png);
+    background-image: url(images/hero1-1400.png);
   }
   .hero__swiper-img2 {
-    background-image: url(../images/hero2-1400.png);
+    background-image: url(images/hero2-1400.png);
   }
   .hero__swiper-img3 {
-    background-image: url(../images/hero3-1400.png);
+    background-image: url(images/hero3-1400.png);
   }
   .hero__container {
     padding-bottom: 81px;
   }
   .banner {
-    background-image: url(../images/oxford-1024.png);
+    background-image: url(images/oxford-1024.png);
   }
   .top__img-2 {
-    background-image: url(../images/top-amchair1-1200.png);
+    background-image: url(images/top-amchair1-1200.png);
   }
   .top__img-3 {
-    background-image: url(../images/top-bed-1024.png);
+    background-image: url(images/top-bed-1024.png);
     margin-right: 0;
   }
   .top__img-4 {
-    background-image: url(../images/top-dresser-1024.png);
+    background-image: url(images/top-dresser-1024.png);
   }
   .top__img-5 {
-    background-image: url(../images/top-chair-1024.png);
+    background-image: url(images/top-chair-1024.png);
   }
   .special__grid-2 .special__images {
     margin-bottom: 45px;
@@ -2233,13 +2233,13 @@ input::-webkit-inner-spin-button {
     background-position: bottom;
   }
   .hero__swiper-img1 {
-    background-image: url(../images/hero1-768.png);
+    background-image: url(images/hero1-768.png);
   }
   .hero__swiper-img2 {
-    background-image: url(../images/hero2-768.png);
+    background-image: url(images/hero2-768.png);
   }
   .hero__swiper-img3 {
-    background-image: url(../images/hero3-768.png);
+    background-image: url(images/hero3-768.png);
   }
   .special__swiper .swiper-slide,
   .special__swiper .special__slide {
@@ -2249,7 +2249,7 @@ input::-webkit-inner-spin-button {
     padding-left: 36px;
   }
   .contacts__grid-right {
-    background-image: url(../images/contacts-sofa-768.png);
+    background-image: url(images/contacts-sofa-768.png);
   }
   .footer__grid {
     display: flex;
@@ -2461,13 +2461,13 @@ input::-webkit-inner-spin-button {
     height: 210px;
   }
   .hero__swiper-img1 {
-    background-image: url(../images/hero1-320.png);
+    background-image: url(images/hero1-320.png);
   }
   .hero__swiper-img2 {
-    background-image: url(../images/hero2-320.png);
+    background-image: url(images/hero2-320.png);
   }
   .hero__swiper-img3 {
-    background-image: url(../images/hero3-320.png);
+    background-image: url(images/hero3-320.png);
   }
   .hero__btn {
     position: absolute;
@@ -2533,7 +2533,7 @@ input::-webkit-inner-spin-button {
   }
   .banner {
     margin-bottom: 162px;
-    background-image: url(../images/oxford-320.png);
+    background-image: url(images/oxford-320.png);
     min-height: 210px;
   }
   .banner__title {
@@ -2567,20 +2567,20 @@ input::-webkit-inner-spin-button {
     width: 100%;
   }
   .top__img-1 {
-    background-image: url(../images/top-sofa-320.png);
+    background-image: url(images/top-sofa-320.png);
     margin: 0;
   }
   .top__img-2 {
-    background-image: url(../images/top-amch-320.png);
+    background-image: url(images/top-amch-320.png);
   }
   .top__img-3 {
-    background-image: url(../images/top-bed-320.png);
+    background-image: url(images/top-bed-320.png);
   }
   .top__img-4 {
-    background-image: url(../images/top-dresser-320.png);
+    background-image: url(images/top-dresser-320.png);
   }
   .top__img-5 {
-    background-image: url(../images/top-chair-320.png);
+    background-image: url(images/top-chair-320.png);
   }
   .top__subtitle {
     display: flex;
@@ -2843,7 +2843,7 @@ input::-webkit-inner-spin-button {
     padding-bottom: 10px;
   }
   .partnership__period-img {
-    background-image: url(../images/pencil-320.png);
+    background-image: url(images/pencil-320.png);
     height: 54px;
     width: 36px;
     padding-right: 35px;
@@ -4029,13 +4029,13 @@ img {
   background-position: center;
 }
 .hero__swiper-img1 {
-  background-image: url(../images/hero1.png);
+  background-image: url(images/hero1.png);
 }
 .hero__swiper-img2 {
-  background-image: url(../images/hero2.png);
+  background-image: url(images/hero2.png);
 }
 .hero__swiper-img3 {
-  background-image: url(../images/hero3.png);
+  background-image: url(images/hero3.png);
 }
 
 .swiper-pagination {
@@ -4103,12 +4103,12 @@ img {
   background-size: cover;
 }
 .special__block-sofabw1 {
-  background-image: url(../images/special-sofaz44-bw.png);
+  background-image: url(images/special-sofaz44-bw.png);
   height: 107px;
   width: 230px;
 }
 .special__block-sofabw2 {
-  background-image: url(../images/special-sofaz85-bw.png);
+  background-image: url(images/special-sofaz85-bw.png);
   height: 124px;
   width: 234px;
 }
@@ -4321,7 +4321,7 @@ img {
 .banner {
   margin-bottom: 70px;
   position: relative;
-  background-image: url(../images/oxford.png);
+  background-image: url(images/oxford.png);
   background-size: cover;
   width: 100%;
   background-position: center;
@@ -4415,19 +4415,19 @@ img {
   margin-right: 20px;
 }
 .top__img-1 {
-  background-image: url(../images/top-sofa1.png);
+  background-image: url(images/top-sofa1.png);
 }
 .top__img-2 {
-  background-image: url(../images/top-amchair1.png);
+  background-image: url(images/top-amchair1.png);
 }
 .top__img-3 {
-  background-image: url(../images/top-bed1.png);
+  background-image: url(images/top-bed1.png);
 }
 .top__img-4 {
-  background-image: url(../images/top-dresser1.png);
+  background-image: url(images/top-dresser1.png);
 }
 .top__img-5 {
-  background-image: url(../images/top-chair1.png);
+  background-image: url(images/top-chair1.png);
 }
 .top__btn {
   outline: transparent;
@@ -4533,19 +4533,19 @@ img {
   border-radius: 10px 10px 0 0;
 }
 .useful__img-1 {
-  background-image: url(../images/useful1.png);
+  background-image: url(images/useful1.png);
 }
 .useful__img-2 {
-  background-image: url(../images/useful2.png);
+  background-image: url(images/useful2.png);
 }
 .useful__img-3 {
-  background-image: url(../images/useful3.png);
+  background-image: url(images/useful3.png);
 }
 .useful__img-4 {
-  background-image: url(../images/useful4.png);
+  background-image: url(images/useful4.png);
 }
 .useful__img-5 {
-  background-image: url(../images/useful5.png);
+  background-image: url(images/useful5.png);
 }
 .useful__info {
   padding: 30px;
@@ -4625,7 +4625,7 @@ img {
   padding: 19px 34px;
 }
 .contacts__grid-right {
-  background-image: url(../images/contacts-sofa.png);
+  background-image: url(images/contacts-sofa.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -4668,7 +4668,7 @@ img {
 }
 
 .contacts__checkbox:checked + .contacts__agree {
-  background-image: url(../images/cheked=on.svg);
+  background-image: url(images/cheked=on.svg);
   background-position: center;
   background-repeat: no-repeat;
   width: 14px;
@@ -4877,7 +4877,7 @@ img {
   align-items: center;
 }
 .partnership__period-img {
-  background-image: url(../images/pencil.png);
+  background-image: url(images/pencil.png);
   background-repeat: no-repeat;
   height: 116px;
   width: 77px;
@@ -4979,7 +4979,7 @@ img {
   margin-bottom: 7px;
 }
 .card__desc-img {
-  background-image: url(../images/card-descr.png);
+  background-image: url(images/card-descr.png);
   background-size: contain;
   background-repeat: no-repeat;
   height: 100%;
@@ -5010,7 +5010,7 @@ img {
   width: 100%;
   left: 0;
   top: 17px;
-  background-image: url(../images/dots.svg);
+  background-image: url(images/dots.svg);
   background-repeat: repeat-x;
   height: 1px;
 }
@@ -5202,7 +5202,7 @@ img {
   margin: 0;
 }
 .catalog__banner-img {
-  background-image: url(../images/oxford-catalog.png);
+  background-image: url(images/oxford-catalog.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5254,7 +5254,7 @@ img {
 }
 
 .catalog__checkbox-input:checked + .catalog__checkbox-option {
-  background-image: url(../images/chekbox-catalog.png);
+  background-image: url(images/chekbox-catalog.png);
   background-position: center;
   background-repeat: no-repeat;
   width: 20px;
@@ -5583,19 +5583,19 @@ input::-webkit-inner-spin-button {
     height: 202px;
   }
   .useful__img-1 {
-    background-image: url(../images/useful1-1024.png);
+    background-image: url(images/useful1-1024.png);
   }
   .useful__img-2 {
-    background-image: url(../images/useful2-1024.png);
+    background-image: url(images/useful2-1024.png);
   }
   .useful__img-3 {
-    background-image: url(../images/useful3-1024.png);
+    background-image: url(images/useful3-1024.png);
   }
   .useful__img-4 {
-    background-image: url(../images/useful4-1024.png);
+    background-image: url(images/useful4-1024.png);
   }
   .useful__img-5 {
-    background-image: url(../images/useful5-1024.png);
+    background-image: url(images/useful5-1024.png);
   }
   .useful__text {
     font-size: 16px;
@@ -5676,32 +5676,32 @@ input::-webkit-inner-spin-button {
     margin-bottom: 70px;
   }
   .hero__swiper-img1 {
-    background-image: url(../images/hero1-1400.png);
+    background-image: url(images/hero1-1400.png);
   }
   .hero__swiper-img2 {
-    background-image: url(../images/hero2-1400.png);
+    background-image: url(images/hero2-1400.png);
   }
   .hero__swiper-img3 {
-    background-image: url(../images/hero3-1400.png);
+    background-image: url(images/hero3-1400.png);
   }
   .hero__container {
     padding-bottom: 81px;
   }
   .banner {
-    background-image: url(../images/oxford-1024.png);
+    background-image: url(images/oxford-1024.png);
   }
   .top__img-2 {
-    background-image: url(../images/top-amchair1-1200.png);
+    background-image: url(images/top-amchair1-1200.png);
   }
   .top__img-3 {
-    background-image: url(../images/top-bed-1024.png);
+    background-image: url(images/top-bed-1024.png);
     margin-right: 0;
   }
   .top__img-4 {
-    background-image: url(../images/top-dresser-1024.png);
+    background-image: url(images/top-dresser-1024.png);
   }
   .top__img-5 {
-    background-image: url(../images/top-chair-1024.png);
+    background-image: url(images/top-chair-1024.png);
   }
   .special__grid-2 .special__images {
     margin-bottom: 45px;
@@ -5800,13 +5800,13 @@ input::-webkit-inner-spin-button {
     background-position: bottom;
   }
   .hero__swiper-img1 {
-    background-image: url(../images/hero1-768.png);
+    background-image: url(images/hero1-768.png);
   }
   .hero__swiper-img2 {
-    background-image: url(../images/hero2-768.png);
+    background-image: url(images/hero2-768.png);
   }
   .hero__swiper-img3 {
-    background-image: url(../images/hero3-768.png);
+    background-image: url(images/hero3-768.png);
   }
   .special__swiper .swiper-slide,
   .special__swiper .special__slide {
@@ -5816,7 +5816,7 @@ input::-webkit-inner-spin-button {
     padding-left: 36px;
   }
   .contacts__grid-right {
-    background-image: url(../images/contacts-sofa-768.png);
+    background-image: url(images/contacts-sofa-768.png);
   }
   .footer__grid {
     display: flex;
@@ -6028,13 +6028,13 @@ input::-webkit-inner-spin-button {
     height: 210px;
   }
   .hero__swiper-img1 {
-    background-image: url(../images/hero1-320.png);
+    background-image: url(images/hero1-320.png);
   }
   .hero__swiper-img2 {
-    background-image: url(../images/hero2-320.png);
+    background-image: url(images/hero2-320.png);
   }
   .hero__swiper-img3 {
-    background-image: url(../images/hero3-320.png);
+    background-image: url(images/hero3-320.png);
   }
   .hero__btn {
     position: absolute;
@@ -6100,7 +6100,7 @@ input::-webkit-inner-spin-button {
   }
   .banner {
     margin-bottom: 162px;
-    background-image: url(../images/oxford-320.png);
+    background-image: url(images/oxford-320.png);
     min-height: 210px;
   }
   .banner__title {
@@ -6134,20 +6134,20 @@ input::-webkit-inner-spin-button {
     width: 100%;
   }
   .top__img-1 {
-    background-image: url(../images/top-sofa-320.png);
+    background-image: url(images/top-sofa-320.png);
     margin: 0;
   }
   .top__img-2 {
-    background-image: url(../images/top-amch-320.png);
+    background-image: url(images/top-amch-320.png);
   }
   .top__img-3 {
-    background-image: url(../images/top-bed-320.png);
+    background-image: url(images/top-bed-320.png);
   }
   .top__img-4 {
-    background-image: url(../images/top-dresser-320.png);
+    background-image: url(images/top-dresser-320.png);
   }
   .top__img-5 {
-    background-image: url(../images/top-chair-320.png);
+    background-image: url(images/top-chair-320.png);
   }
   .top__subtitle {
     display: flex;
@@ -6410,7 +6410,7 @@ input::-webkit-inner-spin-button {
     padding-bottom: 10px;
   }
   .partnership__period-img {
-    background-image: url(../images/pencil-320.png);
+    background-image: url(images/pencil-320.png);
     height: 54px;
     width: 36px;
     padding-right: 35px;
